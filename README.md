@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a mobile developer. Mostly worked with crossplatform Xamarin Forms/Native and also on my own Android/native Kotlin
+I am a mobile developer. Mostly worked with crossplatform Xamarin Forms/Native and now Android/native Kotlin
 - 🔭 Currently when i have some free time, i'm working on [StreetWorkout](https://github.com/steeshock/StreetWorkout "StreetWorkout") - servless (based on Firebase services) mobile project for finding training spots all over the world
 - 👯 Lets enjoy katas at Codewars or Leetcode - my profile is always steeshock 😄
 
